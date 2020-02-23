@@ -1,0 +1,18 @@
+[package]
+name = "loser"
+version = "0.0.0"
+authors = ["YOSHIOKA Takuma <lo48576@hard-wi.red>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+description = "loser: lo48576's server"
+repository = "https://github.com/lo48576/loser"
+publish = false
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[badges]
+maintenance = { status = "experimental" }
+travis-ci = { repository = "lo48576/loser" }
